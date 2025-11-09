@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: fabricioveronez/bootcamp-conversao-distancia:v1
+        image: katekeiroz/bootcamp-encontros-tech:v1
         ports:
         - containerPort: 8000
 ---
